@@ -56,7 +56,7 @@
         // 1.1 显示图片
         if (setupImageHandle) {
             
-            setupImageHandle(image);
+            setupImageHandle(sandBoxImage);
         }
 
         // 1.2 将图片存储到内存缓存
